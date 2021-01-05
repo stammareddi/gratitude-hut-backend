@@ -10,8 +10,8 @@ Welcome to the backend of the gratitude-hut application.
      * If you havent setup a connection string here is a [documentation](https://github.com/stammareddi/gratitude-hut-backend) that will help you get setup in 10 minute 
   4. Once setup in your terminal run npm start to host the backend 
        * If succesful it will tell 
-             * Connection made on port 5000
-             * MongoDB database connection established successfully
+           * Connection made on port 5000
+           * MongoDB database connection established successfully
 
 
 
