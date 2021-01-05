@@ -12,7 +12,10 @@ Welcome to the backend of the gratitude-hut application.
        * If succesful it will tell 
            * Connection made on port 5000
            * MongoDB database connection established successfully
-
+           
+           
+ 5. Great you are all setup for the backend! Lets go back to the frontend of the application to finish up the process !!!
+ [Gratitude-hut frontend](https://github.com/stammareddi/gratitude-hut-frontend/blob/main/README.md)
 
 
 
